@@ -1,0 +1,7 @@
+C:\Users\мукушева\source\repos\TPLLesson\TPLLesson\bin\Debug\TPLLesson.exe.config
+C:\Users\мукушева\source\repos\TPLLesson\TPLLesson\bin\Debug\TPLLesson.exe
+C:\Users\мукушева\source\repos\TPLLesson\TPLLesson\bin\Debug\TPLLesson.pdb
+C:\Users\мукушева\source\repos\TPLLesson\TPLLesson\obj\Debug\TPLLesson.csprojAssemblyReference.cache
+C:\Users\мукушева\source\repos\TPLLesson\TPLLesson\obj\Debug\TPLLesson.csproj.CoreCompileInputs.cache
+C:\Users\мукушева\source\repos\TPLLesson\TPLLesson\obj\Debug\TPLLesson.exe
+C:\Users\мукушева\source\repos\TPLLesson\TPLLesson\obj\Debug\TPLLesson.pdb
